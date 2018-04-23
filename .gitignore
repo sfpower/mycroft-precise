@@ -5,10 +5,10 @@
 __pycache__/
 *.pyc
 *.egg-info/
-/*.pb
-/*.params
+/*.pb1
+/*.params1
 /*.net
-/*.pbtxt
+/*.pbtxt1
 /*.txt
 /*.wav
 /other/
